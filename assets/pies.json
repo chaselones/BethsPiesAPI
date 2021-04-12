@@ -8,59 +8,59 @@
         "imageUrl":"images/apple.jpg"
     },
     {
-        "id": 1,
+        "id": 2,
         "name": "Peach",
         "wholePrice": 19.99,
-        "slicePrice": 4.99,
-        "sliceCalories": 450,
+        "slicePrice": 5.99,
+        "sliceCalories": 430,
         "imageUrl":"images/peach.jpg"
     },
     {
-        "id": 1,
+        "id": 3,
         "name": "Cherry",
         "wholePrice": 19.99,
-        "slicePrice": 4.99,
-        "sliceCalories": 450,
+        "slicePrice": 3.99,
+        "sliceCalories": 471,
         "imageUrl":"images/cherry.jpg"
     },
     {
-        "id": 1,
+        "id": 4,
         "name": "Chocolate Cream",
         "wholePrice": 19.99,
-        "slicePrice": 4.99,
-        "sliceCalories": 450,
+        "slicePrice": 3.99,
+        "sliceCalories": 500,
         "imageUrl":"images/chocolateCream.jpg"
     },
     {
-        "id": 1,
+        "id": 5,
         "name": "Strawberry Rhubarb",
         "wholePrice": 19.99,
-        "slicePrice": 4.99,
-        "sliceCalories": 450,
+        "slicePrice": 4.49,
+        "sliceCalories": 420,
         "imageUrl":"images/StrawberryRhubarb.jpg"
     },
     {
-        "id": 1,
+        "id": 6,
         "name": "Banana Cream",
         "wholePrice": 19.99,
-        "slicePrice": 4.99,
-        "sliceCalories": 450,
+        "slicePrice": 4.59,
+        "sliceCalories": 490,
         "imageUrl":"images/bananaCream.jpg"
     },
     {
-        "id": 1,
+        "id": 7,
         "name": "Blueberry",
         "wholePrice": 19.99,
-        "slicePrice": 4.99,
-        "sliceCalories": 450,
+        "slicePrice": 5.39,
+        "sliceCalories": 400,
         "imageUrl":"images/blueBerry.jpg"
     },
     {
-        "id": 1,
+        "id": 8,
         "name": "Pecan",
         "wholePrice": 19.99,
         "slicePrice": 4.99,
-        "sliceCalories": 450,
+        "sliceCalories": 530,
         "imageUrl":"images/pecan.jpg"
     }
 ]
