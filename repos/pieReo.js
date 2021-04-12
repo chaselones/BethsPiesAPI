@@ -1,14 +1,16 @@
+let fs = require('fs');
+const FILE_NAME = "./assets/pies.json";
+
 let pieRepo = {
-    get: function(){
-        return[
-            { id: 1, name: "Apple" },
-            { id: 2, name: "Peach" },
-            { id: 3, name: "Cherry" },
-            { id: 4, name: "Chocolate Cream" },
-            { id: 5, name: "Strawberry Rhubarb" },
-            { id: 6, name: "Banana Cream" },
-            { id: 7, name: "Blueberry" },
-        ];
+    get: function(resolve, reject){
+        fs.readFile(FILE_NAME, function(err,data){
+            if(err){
+                reject(err);
+            }
+            else{
+                resolve(JSON.parse(data))
+            }
+        });
     }
 };
 
