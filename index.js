@@ -16,7 +16,7 @@ router.get("/", function (req, res, next) {
         "status": 200,
         "statusText": "OK",
         "message": "Pies are here!",
-        "data": pies
+        "data": data
       });
   }, function(err){
     next(err);

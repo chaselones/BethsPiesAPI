@@ -54,7 +54,7 @@
         "slicePrice": 4.99,
         "sliceCalories": 450,
         "imageUrl":"images/blueBerry.jpg"
-    }
+    },
     {
         "id": 1,
         "name": "Pecan",
@@ -62,5 +62,5 @@
         "slicePrice": 4.99,
         "sliceCalories": 450,
         "imageUrl":"images/pecan.jpg"
-    },
+    }
 ]
